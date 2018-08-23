@@ -1,3 +1,12 @@
+#### This fork exists because the original respository is not being maintained at the moment, and maybe never for the 2.0 release.
+
+#### There are some errors in the `package.json` file in the original repo that this fixes based on Cordova specs
+
+
+
+
+
+
 # PhoneGap plugin for Couchbase Lite
 
 Couchbase Lite is an embedded JSON database for occasionally connected devices. It syncs data in the background, so users can collaborate across devices. There is an event based `_changes` JSON feed API so you can drive data-binding UI frameworks like Sencha and Backbone to reflect remote updates interactively.
