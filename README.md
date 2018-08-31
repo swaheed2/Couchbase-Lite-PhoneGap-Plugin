@@ -2,7 +2,11 @@
 
 #### The plugin has been upgraded to work with Corodva Android >= 7
 
+### Install
 
+```
+cordova plugin add https://github.com/swaheed2/Couchbase-Lite-PhoneGap-Plugin.git
+```
 
 
 
