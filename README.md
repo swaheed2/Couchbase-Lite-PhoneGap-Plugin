@@ -1,6 +1,6 @@
 #### This fork exists because the original respository is not being maintained at the moment, and maybe never for the 2.0 release.
 
-#### There are some errors in the `package.json` file in the original repo that this fixes based on Cordova specs
+#### The plugin has been upgraded to work with Corodva Android >= 7
 
 
 
